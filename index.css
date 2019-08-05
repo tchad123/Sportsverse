@@ -162,3 +162,41 @@
 }
 
 
+
+@media screen and (max-width: 350px) {
+
+
+
+ .big-container1{
+
+display:flex;
+flex-direction:column;
+align-items:center;
+
+
+
+}
+
+
+.big-container2{
+display:flex;
+flex-direction:column;
+align-items:center;
+margin-top:9%;
+  
+}
+
+main{
+
+
+  position:relative;
+  top:20px;
+}
+
+
+.baseball{
+
+  width:190px;
+}
+}
+
