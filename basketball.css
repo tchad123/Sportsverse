@@ -53,3 +53,31 @@
     
       padding:20px;
     }
+
+
+@media screen and (max-width: 625px) {
+
+.topnav{
+
+
+
+  display:flex;
+  flex-direction:column-reverse;
+}
+.container2{
+
+  display:flex;
+  flex-direction:column;
+  padding:20px;
+}
+
+.home-button:hover{
+
+  font-size:26px;
+}
+
+
+
+
+
+}
