@@ -163,7 +163,7 @@
 
 
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 650px) {
 
 
 
@@ -172,7 +172,7 @@
 display:flex;
 flex-direction:column;
 align-items:center;
-
+margin-top:10%;
 
 
 }
@@ -182,7 +182,7 @@ align-items:center;
 display:flex;
 flex-direction:column;
 align-items:center;
-margin-top:9%;
+margin-top:6%;
   
 }
 
