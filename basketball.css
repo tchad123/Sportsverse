@@ -66,9 +66,7 @@
 }
 .container2{
 
-  display:flex;
-  flex-direction:column;
-  padding:20px;
+  display:block;
 }
 
 .home-button:hover{
